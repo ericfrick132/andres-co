@@ -1,0 +1,12 @@
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\backend.exe
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\appsettings.Development.json
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\appsettings.json
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\backend.dll
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\backend.deps.json
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\backend.runtimeconfig.json
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\backend.pdb
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\Microsoft.AspNetCore.OpenApi.dll
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\Microsoft.OpenApi.dll
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\efcloud\projects\CLIENTS\Andres - CO\backend\out\Swashbuckle.AspNetCore.SwaggerUI.dll
